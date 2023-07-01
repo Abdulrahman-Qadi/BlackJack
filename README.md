@@ -14,9 +14,8 @@ This is a command-line version of the game of Blackjack, written in Scala.
 ## How to Play
 1. Clone the repository: 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/Abdulrahman-Qadi/BlackJack.git
     ```
-    Make sure to replace `https://github.com/yourusername/your-repo.git` with the URL of your repository.
 2. Navigate into the repository: 
     ```bash
     cd your-repo
